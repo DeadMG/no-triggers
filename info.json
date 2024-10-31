@@ -1,0 +1,9 @@
+{
+  "name": "no-triggers",
+  "version": "0.1.0",
+  "title": "No Triggers",
+  "author": "Puppy",
+  "factorio_version": "2.0",
+  "dependencies": ["(?) space-age"],
+  "description": "Removes trigger technologies from the game."
+}
